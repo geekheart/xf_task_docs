@@ -1,11 +1,11 @@
 {
     "site_name": "mysite",
     "site_slogon": "",
-    "site_root_url": "/",
-    "site_domain": "geekheart.github.io/xf_task_docs",
+    "site_root_url": "/xf_task_docs/",
+    "site_domain": "geekheart.github.io",
     "site_protocol": "https",
     "config_template_dir": "config",
-    "source": "https://github.com/geekheart/geekheart.github.io/blob/main",
+    "source": "https://github.com/geekheart/xf_task_docs",
     "route": {
         "docs": {
             "/get_started/zh/": "docs/get_started/zh"
