@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://geekheart.github.io/sitemap.xml
+Sitemap: https://geekheart.github.io/xf_task_docs/sitemap.xml
