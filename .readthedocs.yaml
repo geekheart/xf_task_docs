@@ -10,6 +10,10 @@ build:
   tools:
     python: "3.8"
 
+# sphinx:
+#   # Path to your Sphinx configuration file.
+#   configuration: docs/conf.py
+
 commands:
   - pip install teedoc
   - teedoc install
