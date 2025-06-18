@@ -1,0 +1,88 @@
+items:
+- label: 文档简介
+  file: README.md
+
+- label: WT99P4C5-S1
+  items:
+  - label: 开发板功能介绍
+    file: WT99P4C5-S1/开发板功能介绍.md
+  - label: 开发板相关资料
+    file: WT99P4C5-S1/开发板相关资料.md
+  - label: 入门指南
+    items:
+      - label: 搭建环境并烧录 demo 固件
+        files: WT99P4C5-S1/搭建环境并烧录 demo 固件.md
+      - label: RS485 例程及其演示
+        file: WT99P4C5-S1/RS485 例程及其演示.md
+      - label: MicroSD 卡驱动例程
+        file: WT99P4C5-S1/MicroSD 卡驱动例程.md
+      - label: USB CDC 例程及其演示
+        file: WT99P4C5-S1/USB CDC 例程及其演示.md
+      - label: MIPI CSI 驱动摄像头例程
+        file: WT99P4C5-S1/MIPI CSI 驱动摄像头例程.md
+      - label: MIPI DSI 驱动屏幕例程
+        file: WT99P4C5-S1/MIPI DSI 驱动摄像头例程.md
+      - label: ESP32-C5 协处理器例程
+        file: WT99P4C5-S1/ESP32-C5 协处理器例程.md
+      - label: xiaozhi AI 例程演示
+        file: WT99P4C5-S1/xiaozhi AI 例程演示.md
+
+- label: WT99C202-AI-S2
+  items:
+  - label: 开发板功能介绍
+    file: WT99C202-AI-S2/开发板功能介绍.md
+  - label: 开发板相关资料
+    file: WT99C202-AI-S2/开发板相关资料.md
+  - label: 入门指南
+    items:
+      - label: 搭建环境并烧录 demo 固件
+        file: WT99C202-AI-S2/搭建环境并烧录 demo 固件.md
+      - label: 编译烧录 xiaozhi AI 固件
+        file: WT99C202-AI-S2/编译烧录 xiaozhi AI 固件.md
+      - label: 接入硅思物语平台
+        file: WT99C202-AI-S2/接入硅思物语平台.md
+      - label: ESP-ADF 移植指南
+        file: WT99C202-AI-S2/ESP-ADF 移植指南.md
+
+- label: WT32-ETH01
+  items:
+  - label: 开发板功能介绍
+    file: WT32-ETH01/开发板功能介绍.md
+  - label: 开发板相关资料
+    file: WT32-ETH01/开发板相关资料.md
+  - label: 入门指南
+    items:
+    - label: 搭建环境并烧录 demo 固件
+      file: WT32-ETH01/搭建环境并烧录 demo 固件.md
+    - label: wifi 转以太网透传例程
+      file: WT32-ETH01/wifi 转以太网透传例程.md
+    - label: BLE 转以太网透传例程
+      file: WT32-ETH01/BLE 转以太网透传例程.md
+
+- label: WT9901C2-SN2
+  items:
+  - label: 开发板功能介绍
+    file: WT9901C2-SN2/开发板功能介绍.md
+  - label: 开发板相关资料
+    file: WT9901C2-SN2/开发板相关资料.md
+  - label: 入门指南
+    items:
+    - label: 搭建环境并烧录 demo 固件
+      file: WT9901C2-SN2/搭建环境并烧录 demo 固件.md
+    - label: 点亮板载 RGB 灯
+      file: WT9901C2-SN2/点亮板载 RGB 灯.md
+
+- label: WT99C262-SG3
+  items:
+  - label: 开发板功能介绍
+    file: WT99C262-SG3/开发板功能介绍.md
+  - label: 开发板相关资料
+    file: WT99C262-SG3/开发板相关资料.md
+  - label: 入门指南
+    items:
+    - label: 搭建环境并烧录 demo 固件
+      file: WT99C262-SG3/搭建环境并烧录 demo 固件.md
+    - label: wifi 转 lora 透传例程
+      file: WT99C262-SG3/wifi 转 lora 透传例程.md
+    - label: BLE 转 lora 透传例程
+      file: WT99C262-SG3/BLE 转 lora 透传例程.md

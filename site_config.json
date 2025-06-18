@@ -1,91 +1,94 @@
 {
-    "site_name": "mysite",
-    "site_slogon": "",
-    "site_root_url": "/xf_task_docs/",
-    "site_domain": "geekheart.github.io",
-    "site_protocol": "https",
-    "config_template_dir": "config",
-    "source": "https://github.com/geekheart/xf_task_docs",
-    "route": {
-        "docs": {
-            "/get_started/zh/": "docs/get_started/zh"
-        },
-        "pages": {
-            "/": "pages/index/zh"
-        },
-        "assets": {
-            "/static/": "static",
-            "/get_started/assets/": "docs/get_started/assets"
-        },
-        "blog": {
-            "/blog/": "blog"
+  "site_name": "wireless-tag Wiki",
+  "site_slogon": "",
+  "site_root_url": "/",
+  "site_domain": "geekheart.github.io",
+  "site_protocol": "https",
+  "config_template_dir": "config",
+  "source": "https://github.com/geekheart/xf_task_docs",
+  "route": {
+    "docs": {
+      "/docs/zh/": "docs/docs/zh",
+      "/faq/zh/": "docs/FAQ/zh"
+    },
+    "pages": {
+      "/": "pages/index/zh"
+    },
+    "assets": {
+      "/static/": "static",
+      "/docs/assets/": "docs/docs/assets",
+      "/faq/assets": "docs/FAQ/assets"
+    }
+  },
+  "translate": {
+    "docs": {
+      "/docs/zh/": [
+        {
+          "url": "/docs/en/",
+          "src": "docs/docs/en"
         }
-    },
-    "translate": {
-        "docs": {
-            "/get_started/zh/": [
-                {
-                    "url": "/get_started/en/",
-                    "src": "docs/get_started/en"
-                }
-            ]
-        },
-        "pages": {
-            "/": [
-                {
-                    "url": "/en/",
-                    "src": "pages/index/en"
-                }
-            ]
+      ],
+      "/faq/zh/": [
+        {
+          "url": "/FAQ/en/",
+          "src": "docs/FAQ/en"
         }
+      ]
     },
-    "plugins": {
-        "teedoc-plugin-markdown-parser":{
-            "from": "pypi",
-            "config": {
-            }
-        },
-        "teedoc-plugin-theme-default":{
-            "from": "pypi",
-            "config": {
-                "dark": true,
-                "show_print_page": true,
-                "heading_no_counter": false,
-                "env":{
-                    "main_color": "#4caf7d"
-                }
-            }
-        },
-        "teedoc-plugin-search":{
-            "from": "pypi",
-            "config": {
-                "search_hint": "Search"
-            }
-        },
-        "teedoc-plugin-blog": {
-            "from": "pypi",
-            "config": {
-            }
-        },
-        "teedoc-plugin-assets": {
-            "from": "pypi",
-            "config": {
-                "header_items": [
-                    "/static/css/custom.css"
-                ],
-                "footer_items": [
-                    "/static/js/custom.js"
-                ],
-                "env":{
-                    "main_color": "#4caf7d",
-                    "second_color": "#0a7d43"
-                }
-            }
+    "pages": {
+      "/": [
+        {
+          "url": "/en/",
+          "src": "pages/index/en"
         }
+      ]
+    }
+  },
+  "executable": {
+    "python": "python3",
+    "pip": "pip3"
+  },
+  "plugins": {
+    "teedoc-plugin-markdown-parser": {
+      "from": "pypi",
+      "config": {}
     },
-    "rebuild_changes_delay": 1,
-    "robots":{
-        "User-agent": "*"
+    "teedoc-plugin-theme-default": {
+      "from": "pypi",
+      "config": {
+        "dark": true,
+        "show_print_page": true,
+        "heading_no_counter": false,
+        "env": {
+          "main_color": "#4caf7d"
+        }
+      }
     },
-    "layout_root_dir": "layout"
+    "teedoc-plugin-search": {
+      "from": "pypi",
+      "config": {
+        "search_hint": "Search"
+      }
+    },
+    "teedoc-plugin-assets": {
+      "from": "pypi",
+      "config": {
+        "header_items": ["/static/css/custom.css"],
+        "footer_items": ["/static/js/custom.js"],
+        "env": {
+          "main_color": "#4caf7d",
+          "second_color": "#0a7d43"
+        }
+      }
+    }
+  },
+  "rebuild_changes_delay": 1,
+  "robots": {
+    "User-agent": "*"
+  },
+  "teedoc-plugin-google-translate": {
+    "from": "pypi",
+    "config": {}
+  },
+  "layout_root_dir": "layout"
 }

@@ -1,33 +1,46 @@
 {
-    "locale": "zh_CN",
-    "class": "language_zh",
+    "locale": "zh",
     "navbar": {
-        "title": "my_site",
+        "title": "wiki",
         "logo": {
-            "alt": "my_site logo",
+            "alt": "wireless-tag wiki logo",
             "src": "/static/image/logo.png"
         },
         "home_url": "/",
         "items": [
             {
-                "url": "/get_started/zh/",
-                "label": "安装使用",
+                "label": "产品",
+                "url": "/",
                 "position": "left"
             },
             {
-                "url": "/blog/",
-                "label": "博客",
-                "position": "left"
+                "label": "文档",
+                "url": "/docs/zh/",
+                "position": "left",
+                "type": "list",
+                "items": []
             },
             {
-                "url": "https://github.com/neutree/teedoc",
-                "label": "github",
-                "target": "_blank",
+                "label": "FAQ 汇总",
+                "url": "/faq/zh/",
+                "position": "left",
+                "type": "list",
+                "items": []
+            },
+            {
+                "label": "<img src='/static/image/shop.svg' style='height: 1.5em;vertical-align: middle;'>",
+                "url": "https://shop538225597.taobao.com/",
                 "position": "right"
             },
             {
+                "label": "<img src='/static/image/github.svg' style='height: 1.5em;vertical-align: middle;'>",
+                "position": "right",
+                "url": "https://github.com/wireless-tag-com",
+                "target": "_blank"
+            },
+            {
                 "id": "language",
-                "label": "Language: ",
+                "label": "<img src='/static/image/language.svg' style='height: 1.5em;vertical-align: middle;'>&nbsp;",
                 "position": "right",
                 "type": "language"
             }
@@ -36,16 +49,16 @@
     "footer":{
         "top":[
             {
-                "label": "链接",
+                "label": "相关链接",
                 "items": [
                     {
-                        "label": "使用 teedoc 构建",
-                        "url": "https://teedoc.neucrack.com",
+                        "label": "启明云端官网",
+                        "url": "https://www.wireless-tag.com/",
                         "target": "_blank"
                     },
                     {
-                        "label": "网站地图",
-                        "url": "/sitemap.xml"
+                        "label": "启明云端淘宝",
+                        "url": "https://shop538225597.taobao.com/"
                     }
                 ]
             },
@@ -53,32 +66,59 @@
                 "label": "源码",
                 "items": [
                     {
+                        "label": "Wiki 源码",
+                        "url": "https://github.com/wireless-tag-com",
+                        "target": "_blank"
+                    },
+                    {
+                        "label": "开源项目",
+                        "url": "https://github.com/wireless-tag-com",
+                        "target": "_blank"
+                    }
+                ]
+            },
+            {
+                "label": "关注我们",
+                "items": [
+                    {
+                        "label": "淘宝",
+                        "url": "https://shop538225597.taobao.com",
+                        "target":"_blank"
+                    },
+                    {
                         "label": "github",
-                        "url": "https://github.com/neutree/teedoc",
-                        "target": "_blank"
+                        "url": "https://github.com/wireless-tag-com",
+                        "target":"_blank"
                     },
                     {
-                        "label": "gitee",
-                        "url": "https://gitee.com/teedoc/teedoc",
-                        "target": "_blank"
+                        "label": "<a>微信公众号</a><img src='/static/image/wechat.png'>"
+                    }
+                ]
+            },
+            {
+                "label": "联系我们",
+                "items": [
+                    {
+                        "label": "电话: +86 18122057087"
                     },
                     {
-                        "label": "本网站源文件",
-                        "url": "https://github.com/teedoc/teedoc.github.io",
-                        "target": "_blank"
+                        "label": "商业支持: gtm@wireless-tag.com"
+                    },
+                    {
+                        "label": "地址: 深圳市南山区国际创新谷6栋A座801"
                     }
                 ]
             }
         ],
         "bottom": [
             {
-                "label": "*ICP备********号",
-                "url": "https://beian.miit.gov.cn",
+                "label":"深圳市启明云端科技有限公司Copyright © 2023 All rights reserved",
+                "url": "https://www.wireless-tag.com",
                 "target": "_blank"
             },
             {
-                "label": "*公网安备***********号",
-                "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=****************",
+                "label": "粤ICP备18106537号",
+                "url": "https://beian.miit.gov.cn",
                 "target": "_blank"
             }
         ]
@@ -92,6 +132,17 @@
                 "download_err_hint": "下载文件失败，请刷新重试或检查网络",
                 "other_docs_result_hint": "来自其它文档的结果",
                 "curr_doc_result_hint": "当前文档搜索结果"
+            }
+        },
+        "teedoc-plugin-thumbs-up": {
+            "config": {
+                "label_up": "有帮助",
+                "label_down": "待改进",
+                "msg_already_voted": "您已经投过票了",
+                "msg_thanks": "感谢您的反馈",
+                "msg_down_prompt": "感谢反馈，请告诉我们可以改进什么地方?（最少 10 个字）",
+                "msg_down_prompt_error": "消息最少需要 10 个字， 最多 256 个字",
+                "msg_error": "请求服务器出现错误!"
             }
         }
     },

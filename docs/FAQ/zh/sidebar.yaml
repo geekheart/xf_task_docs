@@ -1,0 +1,17 @@
+items:
+-   label: 产品选型与订购类
+    file: maix/M1n.md
+-   label: 开发环境与工具链配置
+    file: maix/M1n.md
+-   label: 功能开发与调试
+    file: maixII/README.md
+-   label: 模组认证与法规问题
+    file: maixII/README.md
+-   label: 量产与测试支持
+    file: maixcam/faq.md
+-   label: 售后服务与技术支持
+    file: maixcam/faq.md
+-   label: 商业合作与定制服务
+    file: maixcam/faq.md
+-   label: 常见问题速查
+    file: maixsense/readme.md
