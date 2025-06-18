@@ -4,7 +4,7 @@
         "title": "wiki",
         "logo": {
             "alt": "wireless-tag wiki logo",
-            "src": "static/image/logo.png"
+            "src": "/static/image/logo.png"
         },
         "home_url": "/",
         "items": [
@@ -91,7 +91,7 @@
                         "target":"_blank"
                     },
                     {
-                        "label": "<a>微信公众号</a><img src='/static/image/wechat.png'>"
+                        "label": "<a>微信公众号</a><img src='static/image/wechat.png'>"
                     }
                 ]
             },
