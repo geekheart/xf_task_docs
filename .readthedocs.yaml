@@ -15,7 +15,8 @@ build:
         - pip install teedoc
         - teedoc install
         - teedoc build
-        - cp -r out/* ./
+        - cp -r out/* _build/html/
+        - ls _build/html/
 
 
 
