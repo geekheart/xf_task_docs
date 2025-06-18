@@ -16,7 +16,7 @@ build:
         - teedoc install
         - teedoc build
         - mkdir -p $READTHEDOCS_OUTPUT/html
-        - cp -r out/* $READTHEDOCS_OUTPUT/html
+        - cp -r out/zh-cn/latest/* $READTHEDOCS_OUTPUT/html
 
 
 # Optionally, but recommended,
