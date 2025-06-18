@@ -15,10 +15,10 @@
      
         <meta name="markdown-generator" content="teedoc-plugin-markdown-parser"><script>
 MathJax = {"loader": {"load": ["output/svg"]}, "tex": {"inlineMath": [["$", "$"], ["\\(", "\\)"]]}, "svg": {"fontCache": "global"}};
-</script><script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script><script src="/xf_task_docs/static/js/theme_default/pre_main.js"></script><link rel="stylesheet" href="/xf_task_docs/static/css/theme_default/prism.min.css" type="text/css"/><link rel="stylesheet" href="/xf_task_docs/static/css/theme_default/viewer.min.css" type="text/css"/><link rel="stylesheet" href="/xf_task_docs/static/css/theme_default/dark.css" type="text/css"/><link rel="stylesheet" href="/xf_task_docs/static/css/theme_default/light.css" type="text/css"/><script src="/xf_task_docs/static/js/theme_default/jquery.min.js"></script><script src="/xf_task_docs/static/js/theme_default/split.js"></script><link rel="stylesheet" href="/xf_task_docs/static/css/search/style.css" type="text/css"/><meta name="blog-generator" content="teedoc-plugin-blog"><link rel="stylesheet" href="/xf_task_docs/static/css/custom.css" type="text/css"/>
+</script><script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script><script src="/static/js/theme_default/pre_main.js"></script><link rel="stylesheet" href="/static/css/theme_default/prism.min.css" type="text/css"/><link rel="stylesheet" href="/static/css/theme_default/viewer.min.css" type="text/css"/><link rel="stylesheet" href="/static/css/theme_default/dark.css" type="text/css"/><link rel="stylesheet" href="/static/css/theme_default/light.css" type="text/css"/><script src="/static/js/theme_default/jquery.min.js"></script><script src="/static/js/theme_default/split.js"></script><link rel="stylesheet" href="/static/css/search/style.css" type="text/css"/><link rel="stylesheet" href="/static/css/custom.css" type="text/css"/>
     
     
-        <title>mysite</title>
+        <title>wireless-tag Wiki</title>
     
     
 <script>
@@ -72,12 +72,12 @@ MathJax = {"loader": {"load": ["output/svg"]}, "tex": {"inlineMath": [["$", "$"]
     
     <div id="navbar">
         <div id="navbar_menu">
-            <a class="site_title" href="/xf_task_docs/en/">
+            <a class="site_title" href="/">
                 
-                    <img class="site_logo" src="/xf_task_docs/static/image/logo.png" alt="my_site logo">
+                    <img class="site_logo" src="/static/image/logo.png" alt="wireless-tag wiki logo">
                 
                 
-                    <h2>my_site</h2>
+                    <h2>wiki</h2>
                 
         </a>
             <a id="navbar_menu_btn"></a>
@@ -85,26 +85,29 @@ MathJax = {"loader": {"load": ["output/svg"]}, "tex": {"inlineMath": [["$", "$"]
         <div id="navbar_items">
             <div>
                 <ul id="nav_left">
-<li class=""><a  href="/xf_task_docs/get_started/en/">Install</a></li>
-<li class=""><a  href="/xf_task_docs/blog/">Blog</a></li>
+<li class=""><a  href="/">Products</a></li>
+<li class="sub_items "><a >Document</a><ul></ul>
+</li>
+<li class=""><a  href="/faq.html">FAQ</a></li>
 </ul>
 
             </div>
             <div>
                 <ul id="nav_right">
-<li class=""><a target="_blank" href="https://github.com/neutree/teedoc">github</a></li>
-<li class="sub_items "><a  >Language: English</a><ul><li class="active"><a  href="/xf_task_docs/en/404.html">English</a></li>
-<li class=""><a  href="/xf_task_docs/404.html">中文 简体</a></li>
+<li class=""><a  href="/store.html"><img src='/static/image/shop.svg' style='height: 1.5em;vertical-align: middle;'></a></li>
+<li class=""><a target="_blank" href="https://github.com/sipeed"><img src='/static/image/github.svg' style='height: 1.5em;vertical-align: middle;'></a></li>
+<li class="sub_items "><a  ><img src='/static/image/language.svg' style='height: 1.5em;vertical-align: middle;'>&nbsp;English</a><ul><li class="active"><a  href="/en/404.html">English</a></li>
+<li class=""><a  href="/404.html">中文</a></li>
 </ul></li>
 </ul>
 
                 <ul class="nav_plugins"><li><a id="themes" class="light"></a></li></ul><ul class="nav_plugins"><li><a id="search"><span class="icon"></span><span class="placeholder">Search</span>
                             <div id="search_hints">
-                                <span id="search_input_hint">Keywords separated by space</span>
-                                <span id="search_loading_hint">Loading, wait please ...</span>
-                                <span id="search_download_err_hint">Download error, please check network and refresh again</span>
-                                <span id="search_other_docs_result_hint">Result from other docs</span>
-                                <span id="search_curr_doc_result_hint">Result from current doc</span>
+                                <span id="search_input_hint">Input keyword. Using Space to separate multiple keywords</span>
+                                <span id="search_loading_hint">Loading, please wait</span>
+                                <span id="search_download_err_hint">Fail download, Please retry or check network</span>
+                                <span id="search_other_docs_result_hint">Results form other doc</span>
+                                <span id="search_curr_doc_result_hint">Result form current doc</span>
                             </div></a></li></ul>
             </div>
         </div>
@@ -122,7 +125,7 @@ MathJax = {"loader": {"load": ["output/svg"]}, "tex": {"inlineMath": [["$", "$"]
   
   
   <div style="text-align:center;padding:1em;">
-      <a class="btn" id="previous_btn">Return to previous page</a> <a class="btn" href="/xf_task_docs/">Home</a>
+      <a class="btn" id="previous_btn">Return to previous page</a> <a class="btn" href="/">Home</a>
   </div>
   <script>
     var btn = document.getElementById("previous_btn");
@@ -143,12 +146,27 @@ MathJax = {"loader": {"load": ["output/svg"]}, "tex": {"inlineMath": [["$", "$"]
                 
                 <div id="footer_top">
                     <ul>
-<li><a>Links</a><ul><li><a target="_blank" href="https://teedoc.neucrack.com">Build with teedoc</a></li>
-<li><a  href="/xf_task_docs/sitemap.xml">Sitemap</a></li>
+<li><a>links</a><ul><li><a target="_blank" href="https://www.wireless-tag.com/">Wireless-tag</a></li>
+<li><a  href="https://shop538225597.taobao.com/">Shop</a></li>
 </ul>
 </li>
-<li><a>Source code</a><ul><li><a target="_blank" href="https://github.com/neutree/teedoc">github</a></li>
-<li><a target="_blank" href="https://github.com/teedoc/teedoc.github.io">website source files</a></li>
+<li><a>Source Code</a><ul><li><a target="_blank" href="https://github.com/wireless-tag-com">Wiki source</a></li>
+<li><a target="_blank" href="https://github.com/wireless-tag-com">Open Source Projects</a></li>
+</ul>
+</li>
+<li><a>关注我们</a><ul><li><a target="_blank" href="https://shop538225597.taobao.com">AliExpress</a></li>
+<li><a target="_blank" href="https://github.com/wireless-tag-com">github</a></li>
+<li><a><a>Wechat</a><img src='/static/image/wechat.png'></a>
+</li>
+</ul>
+</li>
+<li><a>Contact us</a><ul><li><a>Tel: +86 18122057087</a>
+</li>
+<li><a>Business support: gtm@wireless-tag.com</a>
+</li>
+<li><a>Address: 深圳市南山区国际创新谷6栋A座801</a>
+</li>
+<li><a  href="/Mr.Vans">Contact</a></li>
 </ul>
 </li>
 </ul>
@@ -156,8 +174,8 @@ MathJax = {"loader": {"load": ["output/svg"]}, "tex": {"inlineMath": [["$", "$"]
                 </div>
                 <div id="footer_bottom">
                     <ul>
-<li><a target="_blank" href="https://beian.miit.gov.cn">*ICP备********号</a></li>
-<li><a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=****************">*公网安备***********号</a></li>
+<li><a target="_blank" href="https://www.wireless-tag.com">深圳市启明云端科技有限公司Copyright © 2023 All rights reserved</a></li>
+<li><a target="_blank" href="https://beian.miit.gov.cn">粤ICP备18106537号</a></li>
 </ul>
 
                 </div>
@@ -168,23 +186,21 @@ MathJax = {"loader": {"load": ["output/svg"]}, "tex": {"inlineMath": [["$", "$"]
 
     
     
-        <script src="/xf_task_docs/teedoc-plugin-markdown-parser/mermaid.min.js"></script>
+        <script src="/teedoc-plugin-markdown-parser/mermaid.min.js"></script>
     
         <script>mermaid.initialize({startOnLoad:true});</script>
     
-        <script src="/xf_task_docs/static/js/theme_default/tocbot.min.js"></script>
+        <script src="/static/js/theme_default/tocbot.min.js"></script>
     
-        <script src="/xf_task_docs/static/js/theme_default/main.js"></script>
+        <script src="/static/js/theme_default/main.js"></script>
     
-        <script src="/xf_task_docs/static/js/theme_default/viewer.min.js"></script>
+        <script src="/static/js/theme_default/viewer.min.js"></script>
     
-        <script src="/xf_task_docs/static/css/theme_default/prism.min.js"></script>
+        <script src="/static/css/theme_default/prism.min.js"></script>
     
-        <script src="/xf_task_docs/static/js/search/search_main.js"></script>
+        <script src="/static/js/search/search_main.js"></script>
     
-        <script src="/xf_task_docs/static/js/plugin_blog/main.js"></script>
-    
-        <script src="/xf_task_docs/static/js/custom.js"></script>
+        <script src="/static/js/custom.js"></script>
     
     
 </body>

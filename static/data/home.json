@@ -1,0 +1,73 @@
+{
+  "banners": [
+    {
+      "title": "WT0132C6-S5模组",
+      "img": "/static/home/wt0132c6-S5.png",
+      "btns": [
+        { "label": "文档", "link": "https://www.wireless-tag.com/product-item-53.html" },
+        { "label": "购买", "link": "https://item.taobao.com/item.htm?id=723481958104" }
+      ]
+    },
+    {
+      "title": "esp32c5芯片上市",
+      "img": "/static/home/esp32-c5.png",
+      "btns": [
+        { "label": "文档", "link": "https://www.wireless-tag.com/product-item-84.html" },
+        { "label": "购买", "link": "https://item.taobao.com/item.htm?id=922333526177" }
+      ]
+    },
+    {
+      "title": "启明智显全系列彩屏",
+      "img": "/static/home/screen.png",
+      "btns": [
+        { "label": "文档", "link": "http://doc.panel-tag.cn"},
+        { "label": "购买", "link": "https://shop212317088.taobao.com/" }
+      ]
+    },
+    {
+      "title": "WTLRC262-SG LoRa模块 ",
+      "img": "/static/home/WTLRC262-SG.png",
+      "btns": [
+        { "label": "文档", "link": "https://www.wireless-tag.com/product-item-58.html"},
+        { "label": "购买", "link": "https://item.taobao.com/item.htm?id=740570800846" }
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "WT99P4C5-S1",
+      "img": "/static/home/WT99P4C5-S1.webp",
+      "description": "ESP32P4+ESP32C5的组合开发板",
+      "link": "https://item.taobao.com/item.htm?id=922333526177",
+      "linkText": "查看详情"
+    },
+    {
+      "title": "WT99C202-AI-S2",
+      "img": "/static/home/WT99C202-AI-S2.webp",
+      "description": "ESP32C3离在线语音开发板",
+      "link": "https://item.taobao.com/item.htm?id=922270390199",
+      "linkText": "查看详情"
+    },
+    {
+      "title": "WT32-ETH01",
+      "img": "/static/home/WT32-ETH01.webp",
+      "description": "ESP32以太网开发板",
+      "link": "https://item.taobao.com/item.htm?id=606843120211",
+      "linkText": "查看详情"
+    },
+    {
+      "title": "WT9901C2-SN2",
+      "img": "/static/home/WT9901C2-SN2.webp",
+      "description": "ESP32C2开发板",
+      "link": "https://item.taobao.com/item.htm?id=647792524311",
+      "linkText": "查看详情"
+    },
+    {
+      "title": "WT99C262-SG3",
+      "img": "/static/home/WT99C262-SG3.webp",
+      "description": "ESP32-C2+lora开发板",
+      "link": "https://item.taobao.com/item.htm?id=794886606858",
+      "linkText": "查看详情"
+    }
+  ]
+}

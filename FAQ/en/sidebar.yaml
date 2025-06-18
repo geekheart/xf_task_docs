@@ -1,0 +1,17 @@
+items:
+-   label: Product Selection and Ordering
+    file: maix/M1n.md
+-   label: Development Environment and Toolchain Setup
+    file: maix/M1n.md
+-   label: Feature Development and Debugging
+    file: maixII/README.md
+-   label: Module Certification and Regulatory Compliance
+    file: maixII/README.md
+-   label: Mass Production and Testing Support
+    file: maixcam/faq.md
+-   label: After-sales Service and Technical Support
+    file: maixcam/faq.md
+-   label: Business Cooperation and Customization Services
+    file: maixcam/faq.md
+-   label: FAQ Quick Reference
+    file: maixsense/readme.md
