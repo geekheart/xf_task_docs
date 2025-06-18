@@ -16,11 +16,7 @@ build:
         - teedoc install
         - teedoc build
         - mkdir -p $READTHEDOCS_OUTPUT/html
-        - ls out
-        - ls out/wireless-tag_products_docs
-        - cp -r out/wireless-tag_products_docs/* $READTHEDOCS_OUTPUT/html
-        - ls $READTHEDOCS_OUTPUT/html
-
+        - cp -r out/* $READTHEDOCS_OUTPUT/html
 
 
 # Optionally, but recommended,

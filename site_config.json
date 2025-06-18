@@ -1,11 +1,11 @@
 {
   "site_name": "wireless-tag Wiki",
   "site_slogon": "",
-  "site_root_url": "/wireless-tag_products_docs/",
-  "site_domain": "geekheart.github.io",
+  "site_root_url": "/",
+  "site_domain": "wireless-tag-products-docs.readthedocs.io",
   "site_protocol": "https",
   "config_template_dir": "config",
-  "source": "https://github.com/geekheart/xf_task_docs",
+  "source": "https://github.com/geekheart/wireless-tag_products_docs",
   "route": {
     "docs": {
       "/docs/zh/": "docs/docs/zh",
