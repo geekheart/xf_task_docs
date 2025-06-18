@@ -43,49 +43,55 @@
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT99P4C5-S1/MIPI DSI 驱动摄像头例程.html</loc>
+            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT99C262-SG3/搭建环境并烧录 demo 固件.html</loc>
             <lastmod>2025-06-18</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT99P4C5-S1/搭建环境并烧录 demo 固件.html</loc>
+            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT99C202-AI-S2/ESP-ADF 移植指南.html</loc>
             <lastmod>2025-06-18</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT99P4C5-S1/RS485 例程及其演示.html</loc>
+            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT99C202-AI-S2/接入硅思物语平台.html</loc>
             <lastmod>2025-06-18</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT99P4C5-S1/MIPI CSI 驱动摄像头例程.html</loc>
+            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT99C202-AI-S2/编译烧录 xiaozhi AI 固件.html</loc>
             <lastmod>2025-06-18</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT99C262-SG3/开发板相关资料.html</loc>
+            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT99C202-AI-S2/开发板相关资料.html</loc>
             <lastmod>2025-06-18</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT99C262-SG3/开发板功能介绍.html</loc>
+            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT99C202-AI-S2/开发板功能介绍.html</loc>
             <lastmod>2025-06-18</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT99C262-SG3/wifi 转 lora 透传例程.html</loc>
+            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT99C202-AI-S2/搭建环境并烧录 demo 固件.html</loc>
             <lastmod>2025-06-18</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT99C262-SG3/BLE 转 lora 透传例程.html</loc>
+            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT9901C2-SN2/开发板相关资料.html</loc>
+            <lastmod>2025-06-18</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT9901C2-SN2/开发板功能介绍.html</loc>
             <lastmod>2025-06-18</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
@@ -139,55 +145,49 @@
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT99C262-SG3/搭建环境并烧录 demo 固件.html</loc>
+            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT99P4C5-S1/MIPI DSI 驱动摄像头例程.html</loc>
             <lastmod>2025-06-18</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT99C202-AI-S2/ESP-ADF 移植指南.html</loc>
+            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT99P4C5-S1/搭建环境并烧录 demo 固件.html</loc>
             <lastmod>2025-06-18</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT99C202-AI-S2/接入硅思物语平台.html</loc>
+            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT99P4C5-S1/RS485 例程及其演示.html</loc>
             <lastmod>2025-06-18</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT99C202-AI-S2/编译烧录 xiaozhi AI 固件.html</loc>
+            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT99P4C5-S1/MIPI CSI 驱动摄像头例程.html</loc>
             <lastmod>2025-06-18</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT99C202-AI-S2/开发板相关资料.html</loc>
+            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT99C262-SG3/开发板相关资料.html</loc>
             <lastmod>2025-06-18</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT99C202-AI-S2/开发板功能介绍.html</loc>
+            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT99C262-SG3/开发板功能介绍.html</loc>
             <lastmod>2025-06-18</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT99C202-AI-S2/搭建环境并烧录 demo 固件.html</loc>
+            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT99C262-SG3/wifi 转 lora 透传例程.html</loc>
             <lastmod>2025-06-18</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT9901C2-SN2/开发板相关资料.html</loc>
-            <lastmod>2025-06-18</lastmod>
-            <changefreq>weekly</changefreq>
-            <priority>1.0</priority>
-        </url>
-        <url>
-            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT9901C2-SN2/开发板功能介绍.html</loc>
+            <loc>https://geekheart.github.io/wireless-tag_products_docs/docs/zh/WT99C262-SG3/BLE 转 lora 透传例程.html</loc>
             <lastmod>2025-06-18</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
