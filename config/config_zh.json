@@ -28,19 +28,19 @@
                 "items": []
             },
             {
-                "label": "<img src='static/image/shop.svg' style='height: 1.5em;vertical-align: middle;'>",
+                "label": "<img src='/static/image/shop.svg' style='height: 1.5em;vertical-align: middle;'>",
                 "url": "https://shop538225597.taobao.com/",
                 "position": "right"
             },
             {
-                "label": "<img src='static/image/github.svg' style='height: 1.5em;vertical-align: middle;'>",
+                "label": "<img src='/static/image/github.svg' style='height: 1.5em;vertical-align: middle;'>",
                 "position": "right",
                 "url": "https://github.com/wireless-tag-com",
                 "target": "_blank"
             },
             {
                 "id": "language",
-                "label": "<img src='static/image/language.svg' style='height: 1.5em;vertical-align: middle;'>&nbsp;",
+                "label": "<img src='/static/image/language.svg' style='height: 1.5em;vertical-align: middle;'>&nbsp;",
                 "position": "right",
                 "type": "language"
             }
@@ -91,7 +91,7 @@
                         "target":"_blank"
                     },
                     {
-                        "label": "<a>微信公众号</a><img src='static/image/wechat.png'>"
+                        "label": "<a>微信公众号</a><img src='/static/image/wechat.png'>"
                     }
                 ]
             },
