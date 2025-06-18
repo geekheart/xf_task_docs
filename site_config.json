@@ -17,7 +17,7 @@
     "assets": {
       "/static/": "static",
       "/docs/assets/": "docs/docs/assets",
-      "/faq/assets": "docs/FAQ/assets"
+      "/faq/assets/": "docs/FAQ/assets"
     }
   },
   "translate": {
