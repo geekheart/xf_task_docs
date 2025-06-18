@@ -15,7 +15,9 @@ build:
         - pip install teedoc
         - teedoc install
         - teedoc build
+        - mkdir -p $READTHEDOCS_OUTPUT/html
         - cp -r out/* $READTHEDOCS_OUTPUT/html
+        - ls $READTHEDOCS_OUTPUT/html
 
 
 
