@@ -15,6 +15,7 @@ build:
         - pip install teedoc
         - teedoc install
         - teedoc build
+        - cp -r out/* ./
 
 
 
