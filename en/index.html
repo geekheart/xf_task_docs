@@ -483,7 +483,7 @@ MathJax = {"loader": {"load": ["output/svg"]}, "tex": {"inlineMath": [["$", "$"]
       };
     },
     mounted() {
-      fetch("/static/data/home.json")
+      fetch("static/data/home.json")
         .then((res) => res.json())
         .then((json) => {
           this.data = json;
