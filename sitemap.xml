@@ -43,6 +43,54 @@
             <priority>1.0</priority>
         </url>
         <url>
+            <loc>https://geekheart.github.io/docs/zh/index.html</loc>
+            <lastmod>2025-06-18</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://geekheart.github.io/docs/zh/WT99P4C5-S1/MicroSD 卡驱动例程.html</loc>
+            <lastmod>2025-06-18</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://geekheart.github.io/docs/zh/WT99P4C5-S1/编译烧录 xiaozhi AI 固件.html</loc>
+            <lastmod>2025-06-18</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://geekheart.github.io/docs/zh/WT99P4C5-S1/ESP32-C5 协处理器例程.html</loc>
+            <lastmod>2025-06-18</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://geekheart.github.io/docs/zh/WT99P4C5-S1/开发板相关资料.html</loc>
+            <lastmod>2025-06-18</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://geekheart.github.io/docs/zh/WT99P4C5-S1/开发板功能介绍.html</loc>
+            <lastmod>2025-06-18</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://geekheart.github.io/docs/zh/WT99P4C5-S1/xiaozhi AI 例程演示.html</loc>
+            <lastmod>2025-06-18</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://geekheart.github.io/docs/zh/WT99P4C5-S1/USB CDC 例程及其演示.html</loc>
+            <lastmod>2025-06-18</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
             <loc>https://geekheart.github.io/docs/zh/WT99P4C5-S1/MIPI DSI 驱动摄像头例程.html</loc>
             <lastmod>2025-06-18</lastmod>
             <changefreq>weekly</changefreq>
@@ -140,54 +188,6 @@
         </url>
         <url>
             <loc>https://geekheart.github.io/docs/zh/WT9901C2-SN2/开发板功能介绍.html</loc>
-            <lastmod>2025-06-18</lastmod>
-            <changefreq>weekly</changefreq>
-            <priority>1.0</priority>
-        </url>
-        <url>
-            <loc>https://geekheart.github.io/docs/zh/index.html</loc>
-            <lastmod>2025-06-18</lastmod>
-            <changefreq>weekly</changefreq>
-            <priority>1.0</priority>
-        </url>
-        <url>
-            <loc>https://geekheart.github.io/docs/zh/WT99P4C5-S1/MicroSD 卡驱动例程.html</loc>
-            <lastmod>2025-06-18</lastmod>
-            <changefreq>weekly</changefreq>
-            <priority>1.0</priority>
-        </url>
-        <url>
-            <loc>https://geekheart.github.io/docs/zh/WT99P4C5-S1/编译烧录 xiaozhi AI 固件.html</loc>
-            <lastmod>2025-06-18</lastmod>
-            <changefreq>weekly</changefreq>
-            <priority>1.0</priority>
-        </url>
-        <url>
-            <loc>https://geekheart.github.io/docs/zh/WT99P4C5-S1/ESP32-C5 协处理器例程.html</loc>
-            <lastmod>2025-06-18</lastmod>
-            <changefreq>weekly</changefreq>
-            <priority>1.0</priority>
-        </url>
-        <url>
-            <loc>https://geekheart.github.io/docs/zh/WT99P4C5-S1/开发板相关资料.html</loc>
-            <lastmod>2025-06-18</lastmod>
-            <changefreq>weekly</changefreq>
-            <priority>1.0</priority>
-        </url>
-        <url>
-            <loc>https://geekheart.github.io/docs/zh/WT99P4C5-S1/开发板功能介绍.html</loc>
-            <lastmod>2025-06-18</lastmod>
-            <changefreq>weekly</changefreq>
-            <priority>1.0</priority>
-        </url>
-        <url>
-            <loc>https://geekheart.github.io/docs/zh/WT99P4C5-S1/xiaozhi AI 例程演示.html</loc>
-            <lastmod>2025-06-18</lastmod>
-            <changefreq>weekly</changefreq>
-            <priority>1.0</priority>
-        </url>
-        <url>
-            <loc>https://geekheart.github.io/docs/zh/WT99P4C5-S1/USB CDC 例程及其演示.html</loc>
             <lastmod>2025-06-18</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
