@@ -1,17 +1,17 @@
 items:
 -   label: Product Selection and Ordering
-    file: maix/M1n.md
+    file: 产品选型与订购类.md
 -   label: Development Environment and Toolchain Setup
-    file: maix/M1n.md
+    file: 开发环境与工具链配置.md
 -   label: Feature Development and Debugging
-    file: maixII/README.md
+    file: 功能开发与调试.md
 -   label: Module Certification and Regulatory Compliance
-    file: maixII/README.md
+    file: 模组认证与法规问题.md
 -   label: Mass Production and Testing Support
-    file: maixcam/faq.md
+    file: 量产与测试支持.md
 -   label: After-sales Service and Technical Support
-    file: maixcam/faq.md
+    file: 售后服务与技术支持.md
 -   label: Business Cooperation and Customization Services
-    file: maixcam/faq.md
+    file: 商业合作与定制服务.md
 -   label: FAQ Quick Reference
-    file: maixsense/readme.md
+    file: 常见问题速查.md

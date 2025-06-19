@@ -5,84 +5,84 @@ items:
 - label: WT99P4C5-S1
   items:
   - label: Board Features
-    file: WT99P4C5-S1/board_features.md
+    file: WT99P4C5-S1/开发板功能介绍.md
   - label: Board Resources
-    file: WT99P4C5-S1/board_resources.md
+    file: WT99P4C5-S1/开发板相关资料.md
   - label: Getting Started
     items:
       - label: Set up Environment and Flash Demo Firmware
-        file: WT99P4C5-S1/setup_and_flash_demo.md
+        file: WT99P4C5-S1/搭建环境并烧录 demo 固件.md
       - label: RS485 Example and Demo
-        file: WT99P4C5-S1/rs485_example_and_demo.md
+        file: WT99P4C5-S1/RS485 例程及其演示.md
       - label: MicroSD Card Driver Example
-        file: WT99P4C5-S1/microsd_driver_example.md
+        file: WT99P4C5-S1/MicroSD 卡驱动例程.md
       - label: USB CDC Example and Demo
-        file: WT99P4C5-S1/usb_cdc_example_and_demo.md
+        file: WT99P4C5-S1/USB CDC 例程及其演示.md
       - label: MIPI CSI Camera Driver Example
-        file: WT99P4C5-S1/mipi_csi_camera_example.md
+        file: WT99P4C5-S1/MIPI CSI 驱动摄像头例程.md
       - label: MIPI DSI Display Driver Example
-        file: WT99P4C5-S1/mipi_dsi_display_example.md
+        file: WT99P4C5-S1/MIPI DSI 驱动摄像头例程.md
       - label: ESP32-C5 Coprocessor Example
-        file: WT99P4C5-S1/esp32c5_coprocessor_example.md
+        file: WT99P4C5-S1/ESP32-C5 协处理器例程.md
       - label: xiaozhi AI Demo Example
-        file: WT99P4C5-S1/xiaozhi_ai_demo.md
+        file: WT99P4C5-S1/xiaozhi AI 例程演示.md
 
 - label: WT99C202-AI-S2
   items:
   - label: Board Features
-    file: WT99C202-AI-S2/board_features.md
+    file: WT99C202-AI-S2/开发板功能介绍.md
   - label: Board Resources
-    file: WT99C202-AI-S2/board_resources.md
+    file: WT99C202-AI-S2/开发板相关资料.md
   - label: Getting Started
     items:
       - label: Set up Environment and Flash Demo Firmware
-        file: WT99C202-AI-S2/setup_and_flash_demo.md
+        file: WT99C202-AI-S2/搭建环境并烧录 demo 固件.md
       - label: Build and Flash xiaozhi AI Firmware
-        file: WT99C202-AI-S2/build_and_flash_xiaozhi_ai.md
+        file: WT99C202-AI-S2/编译烧录 xiaozhi AI 固件.md
       - label: Connect to GOS Platform
-        file: WT99C202-AI-S2/connect_to_gos_platform.md
+        file: WT99C202-AI-S2/接入硅思物语平台.md
       - label: ESP-ADF Porting Guide
-        file: WT99C202-AI-S2/esp_adf_porting_guide.md
+        file: WT99C202-AI-S2/ESP-ADF 移植指南.md
 
 - label: WT32-ETH01
   items:
   - label: Board Features
-    file: WT32-ETH01/board_features.md
+    file: WT32-ETH01/开发板功能介绍.md
   - label: Board Resources
-    file: WT32-ETH01/board_resources.md
+    file: WT32-ETH01/开发板相关资料.md
   - label: Getting Started
     items:
       - label: Set up Environment and Flash Demo Firmware
-        file: WT32-ETH01/setup_and_flash_demo.md
+        file: WT32-ETH01/搭建环境并烧录 demo 固件.md
       - label: Wi-Fi to Ethernet Transparent Transmission Example
-        file: WT32-ETH01/wifi_to_ethernet_transparent.md
+        file: WT32-ETH01/wifi 转以太网透传例程.md
       - label: BLE to Ethernet Transparent Transmission Example
-        file: WT32-ETH01/ble_to_ethernet_transparent.md
+        file: WT32-ETH01/BLE 转以太网透传例程.md
 
 - label: WT9901C2-SN2
   items:
   - label: Board Features
-    file: WT9901C2-SN2/board_features.md
+    file: WT9901C2-SN2/开发板功能介绍.md
   - label: Board Resources
-    file: WT9901C2-SN2/board_resources.md
+    file: WT9901C2-SN2/开发板相关资料.md
   - label: Getting Started
     items:
       - label: Set up Environment and Flash Demo Firmware
-        file: WT9901C2-SN2/setup_and_flash_demo.md
+        file: WT9901C2-SN2/搭建环境并烧录 demo 固件.md
       - label: Light Up Onboard RGB LED
-        file: WT9901C2-SN2/light_up_rgb_led.md
+        file: WT9901C2-SN2/点亮板载 RGB 灯.md
 
 - label: WT99C262-SG3
   items:
   - label: Board Features
-    file: WT99C262-SG3/board_features.md
+    file: WT99C262-SG3/开发板功能介绍.md
   - label: Board Resources
-    file: WT99C262-SG3/board_resources.md
+    file: WT99C262-SG3/开发板相关资料.md
   - label: Getting Started
     items:
       - label: Set up Environment and Flash Demo Firmware
-        file: WT99C262-SG3/setup_and_flash_demo.md
+        file: WT99C262-SG3/搭建环境并烧录 demo 固件.md
       - label: Wi-Fi to LoRa Transparent Transmission Example
-        file: WT99C262-SG3/wifi_to_lora_transparent.md
+        file: WT99C262-SG3/wifi 转 lora 透传例程.md
       - label: BLE to LoRa Transparent Transmission Example
-        file: WT99C262-SG3/ble_to_lora_transparent.md
+        file: WT99C262-SG3/BLE 转 lora 透传例程.md

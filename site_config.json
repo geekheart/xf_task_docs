@@ -1,7 +1,7 @@
 {
   "site_name": "wireless-tag Wiki",
   "site_slogon": "",
-  "site_root_url": "/zh-cn/latest/",
+  "site_root_url": "/",
   "site_domain": "wireless-tag-products-docs.readthedocs.io",
   "site_protocol": "https",
   "config_template_dir": "config",
