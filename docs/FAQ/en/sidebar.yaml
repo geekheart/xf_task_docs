@@ -1,17 +1,17 @@
 items:
 -   label: Product Selection and Ordering
-    file: 产品选型与订购类.md
+    file: product_selection_and_ordering.md
 -   label: Development Environment and Toolchain Setup
-    file: 开发环境与工具链配置.md
+    file: development_environment_and_toolchain_setup.md
 -   label: Feature Development and Debugging
-    file: 功能开发与调试.md
+    file: feature_development_and_debugging.md
 -   label: Module Certification and Regulatory Compliance
-    file: 模组认证与法规问题.md
+    file: module_certification_and_regulatory_compliance.md
 -   label: Mass Production and Testing Support
-    file: 量产与测试支持.md
+    file: mass_production_and_testing_support.md
 -   label: After-sales Service and Technical Support
-    file: 售后服务与技术支持.md
+    file: after-sales_service_and_technical_support.md
 -   label: Business Cooperation and Customization Services
-    file: 商业合作与定制服务.md
+    file: business_cooperation_and_customization_services.md
 -   label: FAQ Quick Reference
-    file: 常见问题速查.md
+    file: FAQ_quick_reference.md

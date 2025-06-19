@@ -5,84 +5,86 @@ items:
 - label: WT99P4C5-S1
   items:
   - label: 开发板功能介绍
-    file: WT99P4C5-S1/开发板功能介绍.md
+    file: WT99P4C5-S1/board_features.md
   - label: 开发板相关资料
-    file: WT99P4C5-S1/开发板相关资料.md
+    file: WT99P4C5-S1/board_resources.md
   - label: 入门指南
     items:
       - label: 搭建环境并烧录 demo 固件
-        files: WT99P4C5-S1/搭建环境并烧录 demo 固件.md
+        files: WT99P4C5-S1/setup_and_flash_demo.md
       - label: RS485 例程及其演示
-        file: WT99P4C5-S1/RS485 例程及其演示.md
+        file: WT99P4C5-S1/rs485_example_and_demo.md
       - label: MicroSD 卡驱动例程
-        file: WT99P4C5-S1/MicroSD 卡驱动例程.md
+        file: WT99P4C5-S1/microsd_driver_example.md
       - label: USB CDC 例程及其演示
-        file: WT99P4C5-S1/USB CDC 例程及其演示.md
+        file: WT99P4C5-S1/usb_cdc_example_and_demo.md
       - label: MIPI CSI 驱动摄像头例程
-        file: WT99P4C5-S1/MIPI CSI 驱动摄像头例程.md
+        file: WT99P4C5-S1/mipi_csi_camera_example.md
       - label: MIPI DSI 驱动屏幕例程
-        file: WT99P4C5-S1/MIPI DSI 驱动摄像头例程.md
+        file: WT99P4C5-S1/mipi_dsi_display_example.md
       - label: ESP32-C5 协处理器例程
-        file: WT99P4C5-S1/ESP32-C5 协处理器例程.md
+        file: WT99P4C5-S1/esp32c5_coprocessor_example.md
       - label: xiaozhi AI 例程演示
-        file: WT99P4C5-S1/xiaozhi AI 例程演示.md
+        file: WT99P4C5-S1/xiaozhi_ai_demo.md
 
 - label: WT99C202-AI-S2
   items:
   - label: 开发板功能介绍
-    file: WT99C202-AI-S2/开发板功能介绍.md
+    file: WT99C202-AI-S2/board_features.md
   - label: 开发板相关资料
-    file: WT99C202-AI-S2/开发板相关资料.md
+    file: WT99C202-AI-S2/board_resources.md
   - label: 入门指南
     items:
       - label: 搭建环境并烧录 demo 固件
-        file: WT99C202-AI-S2/搭建环境并烧录 demo 固件.md
+        file: WT99C202-AI-S2/setup_and_flash_demo.md
       - label: 编译烧录 xiaozhi AI 固件
-        file: WT99C202-AI-S2/编译烧录 xiaozhi AI 固件.md
+        file: WT99C202-AI-S2/build_and_flash_xiaozhi_ai.md
       - label: 接入硅思物语平台
-        file: WT99C202-AI-S2/接入硅思物语平台.md
+        file: WT99C202-AI-S2/connect_to_guisi_platform.md
       - label: ESP-ADF 移植指南
-        file: WT99C202-AI-S2/ESP-ADF 移植指南.md
+        file: WT99C202-AI-S2/esp_adf_porting_guide.md
 
 - label: WT32-ETH01
   items:
   - label: 开发板功能介绍
-    file: WT32-ETH01/开发板功能介绍.md
+    file: WT32-ETH01/board_features.md
   - label: 开发板相关资料
-    file: WT32-ETH01/开发板相关资料.md
+    file: WT32-ETH01/board_resources.md
   - label: 入门指南
     items:
     - label: 搭建环境并烧录 demo 固件
-      file: WT32-ETH01/搭建环境并烧录 demo 固件.md
+      file: WT32-ETH01/setup_and_flash_demo.md
+    - lable: 使用 AT 通讯流程演示
+      file: WT32-ETH01/AT_communication_flow_demonstration.md
     - label: wifi 转以太网透传例程
-      file: WT32-ETH01/wifi 转以太网透传例程.md
+      file: WT32-ETH01/wifi_to_ethernet_transparent.md
     - label: BLE 转以太网透传例程
-      file: WT32-ETH01/BLE 转以太网透传例程.md
+      file: WT32-ETH01/ble_to_ethernet_transparent.md
 
 - label: WT9901C2-SN2
   items:
   - label: 开发板功能介绍
-    file: WT9901C2-SN2/开发板功能介绍.md
+    file: WT9901C2-SN2/board_features.md
   - label: 开发板相关资料
-    file: WT9901C2-SN2/开发板相关资料.md
+    file: WT9901C2-SN2/board_resources.md
   - label: 入门指南
     items:
     - label: 搭建环境并烧录 demo 固件
-      file: WT9901C2-SN2/搭建环境并烧录 demo 固件.md
+      file: WT9901C2-SN2/setup_and_flash_demo.md
     - label: 点亮板载 RGB 灯
-      file: WT9901C2-SN2/点亮板载 RGB 灯.md
+      file: WT9901C2-SN2/light_up_rgb_led.md
 
 - label: WT99C262-SG3
   items:
   - label: 开发板功能介绍
-    file: WT99C262-SG3/开发板功能介绍.md
+    file: WT99C262-SG3/board_features.md
   - label: 开发板相关资料
-    file: WT99C262-SG3/开发板相关资料.md
+    file: WT99C262-SG3/board_resources.md
   - label: 入门指南
     items:
     - label: 搭建环境并烧录 demo 固件
-      file: WT99C262-SG3/搭建环境并烧录 demo 固件.md
+      file: WT99C262-SG3/setup_and_flash_demo.md
     - label: wifi 转 lora 透传例程
-      file: WT99C262-SG3/wifi 转 lora 透传例程.md
+      file: WT99C262-SG3/wifi_to_lora_transparent.md
     - label: BLE 转 lora 透传例程
-      file: WT99C262-SG3/BLE 转 lora 透传例程.md
+      file: WT99C262-SG3/ble_to_lora_transparent.md
