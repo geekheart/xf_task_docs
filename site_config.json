@@ -30,7 +30,7 @@
       ],
       "/faq/zh/": [
         {
-          "url": "/FAQ/en/",
+          "url": "/faq/en/",
           "src": "docs/FAQ/en"
         }
       ]

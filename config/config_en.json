@@ -6,33 +6,36 @@
       "alt": "wireless-tag wiki logo",
       "src": "/static/image/logo.png"
     },
-    "home_url": "/",
+    "home_url": "/en/",
     "items": [
       {
         "label": "Products",
-        "url": "/",
+        "url": "/en/",
         "position": "left"
       },
       {
         "label": "Document",
+        "url": "/docs/en/",
         "position": "left",
         "type": "list",
         "items": []
       },
       {
         "label": "FAQ",
-        "url": "/faq.html",
-        "position": "left"
+        "url": "/faq/en/",
+        "position": "left",
+        "type": "list",
+        "items": []
       },
       {
         "label": "<img src='/static/image/shop.svg' style='height: 1.5em;vertical-align: middle;'>",
-        "url": "/store.html",
+        "url": "https://shop538225597.taobao.com/",
         "position": "right"
       },
       {
         "label": "<img src='/static/image/github.svg' style='height: 1.5em;vertical-align: middle;'>",
         "position": "right",
-        "url": "https://github.com/sipeed",
+        "url": "https://github.com/wireless-tag-com",
         "target": "_blank"
       },
       {
@@ -75,7 +78,7 @@
         ]
       },
       {
-        "label": "关注我们",
+        "label": "Follow us",
         "items": [
           {
             "label": "AliExpress",
@@ -103,10 +106,6 @@
           },
           {
             "label": "Address: 深圳市南山区国际创新谷6栋A座801"
-          },
-          {
-            "label": "Contact",
-            "url": "Mr.Vans"
           }
         ]
       }
@@ -136,5 +135,5 @@
       }
     }
   },
-  "show_source": "编辑本页"
+  "show_source": "edit docs"
 }
