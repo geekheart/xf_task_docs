@@ -10,8 +10,8 @@ items:
     file: WT99P4C5-S1/board_resources.md
   - label: Getting Started
     items:
-      - label: Set up Environment and Flash Demo Firmware
-        file: WT99P4C5-S1/setup_and_flash_demo.md
+      - label: Getting Started Guide
+        file: WT99P4C5-S1/getting_started.md
       - label: RS485 Example and Demo
         file: WT99P4C5-S1/rs485_example_and_demo.md
       - label: MicroSD Card Driver Example
@@ -35,8 +35,8 @@ items:
     file: WT99C202-AI-S2/board_resources.md
   - label: Getting Started
     items:
-      - label: Set up Environment and Flash Demo Firmware
-        file: WT99C202-AI-S2/setup_and_flash_demo.md
+      - label: Getting Started Guide
+        file: WT99C202-AI-S2/getting_started.md
       - label: Build and Flash xiaozhi AI Firmware
         file: WT99C202-AI-S2/build_and_flash_xiaozhi_ai.md
       - label: Connect to GuiSi Platform
@@ -52,8 +52,8 @@ items:
     file: WT32-ETH01/board_resources.md
   - label: Getting Started
     items:
-      - label: Set up Environment and Flash Demo Firmware
-        file: WT32-ETH01/setup_and_flash_demo.md
+      - label: Getting Started Guide
+        file: WT32-ETH01/getting_started.md
       - label: AT Communication Flow Demonstration
         file: WT32-ETH01/AT_communication_flow_demonstration.md
       - label: Wi-Fi to Ethernet Transparent Transmission Example
@@ -69,8 +69,8 @@ items:
     file: WT9901C2-SN2/board_resources.md
   - label: Getting Started
     items:
-      - label: Set up Environment and Flash Demo Firmware
-        file: WT9901C2-SN2/setup_and_flash_demo.md
+      - label: Getting Started Guide
+        file: WT9901C2-SN2/getting_started.md
       - label: Light Up Onboard RGB LED
         file: WT9901C2-SN2/light_up_rgb_led.md
 
@@ -82,8 +82,8 @@ items:
     file: WT99C262-SG3/board_resources.md
   - label: Getting Started
     items:
-      - label: Set up Environment and Flash Demo Firmware
-        file: WT99C262-SG3/setup_and_flash_demo.md
+      - label: Getting Started Guide
+        file: WT99C262-SG3/getting_started.md
       - label: Wi-Fi to LoRa Transparent Transmission Example
         file: WT99C262-SG3/wifi_to_lora_transparent.md
       - label: BLE to LoRa Transparent Transmission Example

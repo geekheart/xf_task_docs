@@ -34,18 +34,6 @@ blockquote {
   padding-bottom: 30px;
   text-align: center;
 }
-.logo_maixpy {
-  margin-bottom: 15px;
-}
-.logo_maixpy img {
-  height: 200px;
-}
-.logo_sipeed img {
-  height: 43px;
-}
-.logo_mpy img {
-  height: 45px;
-}
 .limit_width {
   min-width: 65px;
   display: inline-block;

@@ -10,8 +10,8 @@ items:
     file: WT99P4C5-S1/board_resources.md
   - label: 入门指南
     items:
-      - label: 搭建环境并烧录 demo 固件
-        files: WT99P4C5-S1/setup_and_flash_demo.md
+      - label: 新手指南
+        file: WT99P4C5-S1/getting_started.md
       - label: RS485 例程及其演示
         file: WT99P4C5-S1/rs485_example_and_demo.md
       - label: MicroSD 卡驱动例程
@@ -35,8 +35,8 @@ items:
     file: WT99C202-AI-S2/board_resources.md
   - label: 入门指南
     items:
-      - label: 搭建环境并烧录 demo 固件
-        file: WT99C202-AI-S2/setup_and_flash_demo.md
+      - label: 新手指南
+        file: WT99C202-AI-S2/getting_started.md
       - label: 编译烧录 xiaozhi AI 固件
         file: WT99C202-AI-S2/build_and_flash_xiaozhi_ai.md
       - label: 接入硅思物语平台
@@ -52,8 +52,8 @@ items:
     file: WT32-ETH01/board_resources.md
   - label: 入门指南
     items:
-    - label: 搭建环境并烧录 demo 固件
-      file: WT32-ETH01/setup_and_flash_demo.md
+    - label: 新手指南
+      file: WT32-ETH01/getting_started.md
     - lable: 使用 AT 通讯流程演示
       file: WT32-ETH01/AT_communication_flow_demonstration.md
     - label: wifi 转以太网透传例程
@@ -69,8 +69,8 @@ items:
     file: WT9901C2-SN2/board_resources.md
   - label: 入门指南
     items:
-    - label: 搭建环境并烧录 demo 固件
-      file: WT9901C2-SN2/setup_and_flash_demo.md
+    - label: 新手指南
+      file: WT9901C2-SN2/getting_started.md
     - label: 点亮板载 RGB 灯
       file: WT9901C2-SN2/light_up_rgb_led.md
 
@@ -82,8 +82,8 @@ items:
     file: WT99C262-SG3/board_resources.md
   - label: 入门指南
     items:
-    - label: 搭建环境并烧录 demo 固件
-      file: WT99C262-SG3/setup_and_flash_demo.md
+    - label: 新手指南
+      file: WT99C262-SG3/getting_started.md
     - label: wifi 转 lora 透传例程
       file: WT99C262-SG3/wifi_to_lora_transparent.md
     - label: BLE 转 lora 透传例程
