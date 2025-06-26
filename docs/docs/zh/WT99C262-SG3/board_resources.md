@@ -28,3 +28,7 @@ update:
 ## CH343x 串口驱动
 
 [📥 下载 windows 串口驱动](/docs/assets/common/CH343SER_WIN_驱动程序.ZIP)
+
+## ESP32 烧录上位机
+
+[📥 下载官方上位机](https://dl.espressif.com/public/flash_download_tool.zip)

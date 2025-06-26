@@ -37,3 +37,7 @@ update:
 
 [📥 下载软件](/docs/assets/common/音频烧录上位机.exe)
 
+## ESP32 烧录上位机
+
+[📥 下载官方上位机](https://dl.espressif.com/public/flash_download_tool.zip)
+
