@@ -13,7 +13,7 @@ update:
 
 ### 准备工作
 
-WT9901C2-SN2 开发板在进行固件烧录时软硬件如下：
+`WT9901C2-SN2` 开发板在进行固件烧录时软硬件如下：
 
 - 硬件设备：
   - `WT9901C2-SN2` 开发板 x 1
@@ -105,3 +105,13 @@ idf.py flash -p <PORT>
 ```shell
 idf.py monitor -p <PORT>
 ```
+
+## 如何将 WT9901C2-SN2 当作烧录器给其它开发板烧录
+
+将 `EN` 和 `GND` 通过短接帽进行短接。开发板即可作为烧录器或者串口监视器使用。如下图所示：
+<div style="text-align: center; padding: 20px; border-radius: 12px;">
+  <img src="/docs/assets/WT9901C2-SN2/开发板烧录器接线.jpeg" 
+       alt="开发板烧录器接线"
+       style="display:block; margin:0 auto; max-width:100%; border: 1px solid #eee; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+  <lable style="font-style: italic;">开发板烧录器接线</label>
+</div>
